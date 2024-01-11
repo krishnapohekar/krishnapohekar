@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PYTHON,DATA SCIENCE**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **PYTHON ko**
 
 - 📫 How to reach me **krishna.pohekar6@gmail.com**
 
