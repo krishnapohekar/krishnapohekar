@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krushna Pohekar</h1>
 <h3 align="center">Mastering the Python toolbox, crafting data-driven solutions with precision.</h3>
 
-- 🌱 I’m currently learning **PYTHON,DATA SCIENCE**
+- 🌱 I’m currently learning **PYTHON,DATA SCIENCE,AI,AGENTIC AI**
 
 - 💬 Ask me about **PYTHON**
 
